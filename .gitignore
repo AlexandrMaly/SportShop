@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/Sport-Shop/App/App.class
+/out/production/Sport-Shop/Cap/CapColor.class
+/out/production/Sport-Shop/Cap/CapMaker.class
+/out/production/Sport-Shop/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/Sport-Shop/Order/OrderA.class
+/out/production/Sport-Shop/Order/OrderB.class
+/out/production/Sport-Shop/Order/OrderCap.class
+/out/production/Sport-Shop/Order/OrderTShirt.class
+/out/production/Sport-Shop/Outputter/Outputter.class
+/out/production/Sport-Shop/TShirt/TShirtColor.class
+/Sport-Shop.iml
+/out/production/Sport-Shop/TShirt/TShirtMaker.class
+/.idea/uiDesigner.xml
+/.idea/workspace.xml
